@@ -1,0 +1,8 @@
+文件名：将XXX.html（主页）命名为index.html
+DNS解析：添加A记录，将域名指向云服务器的IP地址
+CF加密模式：设置为完全
+证书：网站-设置-SSL-申请免费的SSL证书
+基本网页内容：js/index.js和index.html
+云服务器要开发对应的端口、进入bt不要挂梯子
+
+修改CNAME（GitHub Pages需要）
